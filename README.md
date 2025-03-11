@@ -18,7 +18,7 @@ Check out the live demo of the website: [Food Restaurant Website](https://waqasa
    Key Features of a Visually Stunning Restaurant Website
    - 🍽️ **Fully Responsive Design** – Seamlessly adapts to all devices, from mobile to desktop.
    - 🌟 **Showcasing Signature Dishes** – Highlights restaurant specialties and popular menu items.
-   - 📸 **Visual Experience with Image Gallery** – Displays ambiance, food presentation, and restaurant      interiors.
+   - 📸 **Visual Experience with Image Gallery** – Displays ambiance, food presentation, restaurant      interiors.
    - ⭐ **Customer Reviews & Testimonials** – Builds trust with real customer feedback.
    - 🛒 **Easy Online Ordering** – Simple and intuitive food order form for quick orders.
    - 📍  **Contact & Location Details** – Includes address, phone, email, and an interactive map for easy navigation.
