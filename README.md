@@ -21,7 +21,8 @@ Check out the live demo of the website: [Food Restaurant Website](https://waqasa
    - 📸 **Visual Experience with Image Gallery** – Displays ambiance, food presentation, restaurant      interiors.
    - ⭐ **Customer Reviews & Testimonials** – Builds trust with real customer feedback.
    - 🛒 **Easy Online Ordering** – Simple and intuitive food order form for quick orders.
-   - 📍  **Contact & Location Details** – Includes address, phone, email, and an interactive map for easy navigation.
+   - 📍   **Contact & Location Details** – Includes address, phone, email, and an interactive map for easy navigation.
+
    Let me know if you need further refinements! 🚀
 
 ## Technologies Used
